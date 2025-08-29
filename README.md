@@ -28,12 +28,5 @@ I like messing around, hmu @ [LinkedIn](www.linkedin.com/in/ahad-nadeemm) </br>
 # ♾️ Random
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alphaahad&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alphaahad&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaahad&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=alphaahad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
