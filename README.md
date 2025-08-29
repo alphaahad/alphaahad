@@ -3,7 +3,7 @@
 The machine's learning? I hope it is </br>
 
 Well versed in ML, Enthusiastic about DS </br>
-Senior in at JHU, ND </br>
+CS Major at JHU, ND </br>
 I like messing around </br>
 
 
